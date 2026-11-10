@@ -1,11 +1,15 @@
-﻿{
+{
   "customGames": [
     {
-      "id": "4115450",
-      "name": "Phantom Blade Zero",
+      "id": "3863760",
+      "name": "Hiệp Ảnh Lục-侠影录",
       "team": "Revolt",
+      "sourceName": "Game BSN",
+      "note": "",
+      "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/3863760/header.jpg",
       "version": "1.0",
-      "url": "https://raw.githubusercontent.com/gamegiarebsn/viethoa/main/4115450-phantom-blade-zero/pack.zip"
+      "url": "https://github.com/gamegiarebsn/VH/releases/download/game-3863760/pack.zip",
+      "updatedAt": "2026-11-10T11:21:35.555Z"
     }
   ]
 }
